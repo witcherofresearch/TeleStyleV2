@@ -411,7 +411,7 @@ code {
 }
 
 .copy-bibtex-btn.copied {
-  background: #10b981;
+  background: teal;
 }
 
 .copy-bibtex-btn.copied .copy-text::after {
